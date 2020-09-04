@@ -6,3 +6,11 @@
 [![downloads](https://img.shields.io/npm/dm/@sudoo/express-event-stream.svg)](https://www.npmjs.com/package/@sudoo/express-event-stream)
 
 :boom: Event Stream for Express
+
+## Install
+
+```sh
+yarn add @sudoo/express-event-stream
+# Or
+npm install @sudoo/express-event-stream --save
+```
