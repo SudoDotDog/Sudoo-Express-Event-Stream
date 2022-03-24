@@ -1,7 +1,7 @@
 {
   "name": "@sudoo/express-event-stream",
   "version": "1.0.0",
-  "description": ":boom: Event Stream for Express",
+  "description": "Event Stream for Express",
   "directories": {
     "doc": "docs"
   },
@@ -15,10 +15,8 @@
     "url": "https://github.com/SudoDotDog/Sudoo-Express-Event-Stream/issues"
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Express-Event-Stream#readme",
-  "dependencies": {},
   "devDependencies": {
-    "@sudoo/io": "^1.8.0",
-    "@sudoo/triforce": "^2.8.5"
+    "@sudoo/triforce": "^3.5.0"
   },
   "nyc": {
     "extension": [
